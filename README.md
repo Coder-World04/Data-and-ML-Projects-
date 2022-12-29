@@ -1,6 +1,9 @@
 # Data and ML Projects
 This repository contains projects covering Data Analytics, Data Science, Data Engineering, Machine Learning, MLOPs
 
+![YDANG](https://user-images.githubusercontent.com/104568275/209964432-67655f8e-081b-4bd9-963d-eb07f2fea072.png)
+
+
 For 30 days of Data Analytics with projects Series : [Start here](https://medium.com/coders-mojo/day-1-of-30-days-of-data-analytics-with-projects-series-6c2f939ec865?sk=55671d964311268ae548dbdac902ebe5)
 
 For 60 days of Data Science and Machine Learning with projects Series:  [Start here](https://medium.com/coders-mojo/data-science-and-ml-projects-series-d9b07789368b?sk=4f1aaffd6d9dcf0255b7e02139d3dc71)
