@@ -1,32 +1,33 @@
 # Data and ML Projects
 This repository contains projects covering Data Analytics, Data Science, Data Engineering, Machine Learning, MLOPs
 
-For Data Analytics : 
-For Data Science and Machine Learning :  
+For 30 days of Data Analytics with projects Series : [Start here](https://medium.com/coders-mojo/day-1-of-30-days-of-data-analytics-with-projects-series-6c2f939ec865?sk=55671d964311268ae548dbdac902ebe5)
+
+For 60 days of Data Science and Machine Learning with projects Series:  [Start here](https://medium.com/coders-mojo/data-science-and-ml-projects-series-d9b07789368b?sk=4f1aaffd6d9dcf0255b7e02139d3dc71)
 
 # Data Analytics Projects 
 
-Project 1
+[Project 1](https://medium.com/coders-mojo/day-11-of-30-days-of-data-analytics-with-projects-series-c0bcba787dc3?sk=cc7d4d8d7c1382a47ccbd5c43df3fc31)
 
-Project 2
+[Project 2](https://medium.com/coders-mojo/project-day-16-of-30-days-of-data-analytics-with-projects-series-6992a946c868?sk=0be0825d7d944a67fc779fea277c0f98)
 
-Project 3
+[Project 3](https://medium.com/coders-mojo/project-3-day-17-of-30-days-of-data-analytics-with-projects-series-a76e254a4b65?sk=0b141a399d22f44c85975ec285efb95b)
 
-Project 4
+[Project 4](https://medium.com/coders-mojo/project-4-day-18-of-30-days-of-data-analytics-with-projects-series-614b8a575d32?sk=2ca301772f1048d767a9947fc3caefda)
 
-Project 5
+[Project 5](https://medium.com/coders-mojo/project-5-day-19-of-30-days-of-data-analytics-with-projects-series-407255f6ab56?sk=bf8aa373bd2d3611b7f6ee384025a925)
 
-Project 6
+[Project 6](https://medium.com/coders-mojo/project-6-day-20-of-30-days-of-data-analytics-with-projects-series-7f80a9753354?sk=97746824884dbab0803e69170df937b2)
 
-Project 7
+[Project 7](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
 
-Project 8
+[Project 8](https://medium.com/coders-mojo/project-8-day-22-of-30-days-of-data-analytics-with-projects-series-dc8f463adac6?sk=2a7ac02cb6f0c6be7568c1ba5c2552b5)
 
-Project 9
+[Project 9](https://medium.com/coders-mojo/project-9-day-23-of-30-days-of-data-analytics-with-projects-series-6747f695d570?sk=9c51bec759e96404208cebf448409adc)
 
-Project 10
+[Project 10](https://medium.com/coders-mojo/project-10-day-24-of-30-days-of-data-analytics-with-projects-series-7614ea846ab0?sk=3ff451f1dd67c846b5064395dde49f0a)
 
-Project 11
+[Project 11](https://medium.com/coders-mojo/project-11-day-25-of-30-days-of-data-analytics-with-projects-series-ee6f16db5d59?sk=d6a03230090f77bcadc2918207899cd0)
 
 # Data Science and Machine Learning Projects
 
